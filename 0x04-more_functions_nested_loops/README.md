@@ -1,1 +1,1 @@
-who dey check
+who de check
