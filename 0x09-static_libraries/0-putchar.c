@@ -1,6 +1,3 @@
-0-putchar.c
-
-
 #include <unistd.h> 
  
 /** 
